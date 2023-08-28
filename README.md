@@ -12,7 +12,11 @@
 
 ## 🛠️ Developer Roadmap Progress
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64ea7c4db128dce3cb7c2af1?variant=dark" alt="Developer Roadmap"/></a>
+<p align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://api.roadmap.sh/v1-badge/tall/64ea7c4db128dce3cb7c2af1?variant=dark" alt="Developer Roadmap"/>
+  </a>
+</p>
 
 ---
 
