@@ -31,9 +31,15 @@
 
 ### 📜 Certifications
 
-- Programming Essentials Certificate
+- [Code Foundations Cert.pdf](https://github.com/DevDadx64/DevDadx64/files/12502443/Code.Foundations.Cert.pdf)
+- [Learn How to Code.pdf](https://github.com/DevDadx64/DevDadx64/files/12502444/Learn.How.to.Code.pdf)
+- [Learn to Code with Blockly.pdf](https://github.com/DevDadx64/DevDadx64/files/12502447/Learn.to.Code.with.Blockly.pdf)
+
+
+
 
 ---
+
 
 ### 📬 Contact Me
 
