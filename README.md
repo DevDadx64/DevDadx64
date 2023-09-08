@@ -30,11 +30,13 @@
 ---
 
 ### 📜 Certifications
+- [Python 3 Certification.pdf](https://github.com/DevDadx64/DevDadx64/files/12562454/Python.3.Certification.pdf)
 
-- [Code Foundations Cert.pdf](https://github.com/DevDadx64/DevDadx64/files/12502443/Code.Foundations.Cert.pdf)
-- [Learn How to Code.pdf](https://github.com/DevDadx64/DevDadx64/files/12502444/Learn.How.to.Code.pdf)
-- [Learn to Code with Blockly.pdf](https://github.com/DevDadx64/DevDadx64/files/12502447/Learn.to.Code.with.Blockly.pdf)
+- [Code Foundations Cert.pdf](https://github.com/DevDadx64/DevDadx64/files/12562458/Code.Foundations.Cert.pdf)
 
+- [Learn How to Code.pdf](https://github.com/DevDadx64/DevDadx64/files/12562462/Learn.How.to.Code.pdf)
+
+- [Learn to Code with Blockly.pdf](https://github.com/DevDadx64/DevDadx64/files/12562464/Learn.to.Code.with.Blockly.pdf)
 
 
 
