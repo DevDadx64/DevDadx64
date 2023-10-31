@@ -2,21 +2,11 @@
 
 📚 Currently a full-time student focusing on software engineering.
 
-🌱 Learning: JavaScript, HTML5, CSS, Python, and Git.
+🌱 Learning: JavaScript, HTML5, CSS, and Python.
 
-🎯 Goals: Obtain my first programming job by year's end.
+🎯 Goals: Master the Python programming language!
 
 💬 Let's connect!
-
----
-
-## 🛠️ Developer Roadmap Progress
-
-<p align="center">
-  <a href="https://roadmap.sh">
-    <img src="https://api.roadmap.sh/v1-badge/tall/64ea7c4db128dce3cb7c2af1?variant=dark" alt="Developer Roadmap"/>
-  </a>
-</p>
 
 ---
 
@@ -28,20 +18,6 @@
 - VSCode
 
 ---
-
-### 📜 Certifications
-- [Python 3 Certification.pdf](https://github.com/DevDadx64/DevDadx64/files/12562454/Python.3.Certification.pdf)
-
-- [Code Foundations Cert.pdf](https://github.com/DevDadx64/DevDadx64/files/12562458/Code.Foundations.Cert.pdf)
-
-- [Learn How to Code.pdf](https://github.com/DevDadx64/DevDadx64/files/12562462/Learn.How.to.Code.pdf)
-
-- [Learn to Code with Blockly.pdf](https://github.com/DevDadx64/DevDadx64/files/12562464/Learn.to.Code.with.Blockly.pdf)
-
-
-
----
-
 
 ### 📬 Contact Me
 
